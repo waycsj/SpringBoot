@@ -1,0 +1,75 @@
+http3에 대하여
+
+
+* TCP 3-way Handshake 란?
+
+Client > Server : TCP 
+SYNServer > Client : TCP SYN ACK
+Client > Server : TCP ACK
+출처: https://mindnet.tistory.com/entry/네트워크-쉽게-이해하기-22편-TCP-3-WayHandshake-4-WayHandshake [Mind Net:티스토리]
+
+
+
+tcp/ip
+https://velog.io/@leeesangheee/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.-TCP-3-way-Handshake
+
+RDS
+https://velog.io/@ghldjfldj/AWS-RDS%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-zuaaizv4
+
+67page
+차이점
+web server/ was 그림으로 이해
+
+77페이지 서블릿 동작과정
+
+
+<2일차>
+
+http3
+http2를 따로 공부해야함
+http의 특징 1.무상태성(stateless) 2.비연결성
+
+
+애플릿/ 서블릿/ 리스너(이벤트 발생하면 실행되는 리스너)
+
+
+
+runtime exception 
+c
+debug
+
+
+toString()
+hasgcode()
+equals()
+
+subSring
+
+https://hailey-v.tistory.com/43
+https://velog.io/@code-10/%EB%A1%AC%EB%B3%B5-AllNoArgsConstructor-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90
+
+https://f-lab.kr/insight/understanding-rest-api-and-restful?gad_source=1&gclid=Cj0KCQjwveK4BhD4ARIsAKy6pMLkARCZcrRjgPxSV9zbJTIw8VfEXE2Ip6aeemSlobr8NXiATpYN1pQaAgVGEALw_wcB
+
+https://velog.io/@wjstkwhwjdgus/API-HTTP
+
+https://stdio-han.tistory.com/88
+
+
+
+url -> utf-8-> incoding vs decoding
+
+
+rest API
+|
+|
+representation방식
+
+get/students   : 학생정보 조회
+post;/students : 앤 변경
+put/students  :수정
+patch/students :수정
+delete/students: 삭제
+
+
+
+
